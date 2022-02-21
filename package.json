@@ -1,0 +1,20 @@
+{
+  "name": "learning-webassembly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eithan-hernandez/learning-webassembly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eithan-hernandez/learning-webassembly/issues"
+  },
+  "homepage": "https://github.com/eithan-hernandez/learning-webassembly#readme"
+}
